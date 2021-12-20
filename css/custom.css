@@ -1,0 +1,15 @@
+body{
+  color: white;
+}
+.navbar{
+  border-bottom: 10px solid black;
+  border-top: 10px solid black;
+  
+}
+#editForm{
+  color: black;
+}
+label{
+  color: white;
+  font-weight: bolder;
+}
